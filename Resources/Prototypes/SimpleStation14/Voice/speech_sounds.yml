@@ -1,0 +1,8 @@
+- type: speechSounds
+  id: Fox
+  saySound:
+    path: /Audio/SimpleStation14/Voice/Talk/foxwindy.ogg
+  askSound:
+    path: /Audio/SimpleStation14/Voice/Talk/foxwindyask.ogg
+  exclaimSound:
+    path: /Audio/SimpleStation14/Voice/Talk/foxwindyexclaim.ogg

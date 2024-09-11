@@ -1777,6 +1777,15 @@
   - type: NpcFactionMember
     factions:
     - Pet
+  - type: Speech
+    speechSounds: Fox
+  - type: RandomBark
+    barks:
+    - Ack-Ack
+    - Ack-Ack-Ack-Ackawoo
+    - Geckers
+    - Awoooo
+    - Bark
 
 - type: entity
   name: corgi

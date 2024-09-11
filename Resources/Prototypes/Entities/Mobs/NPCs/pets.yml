@@ -460,6 +460,8 @@
   - type: Tag
     tags:
     - CannotSuicide
+  - type: RandomBark
+    chatlog: True
 
 
 - type: entity
