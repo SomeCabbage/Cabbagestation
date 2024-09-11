@@ -462,6 +462,7 @@
     - CannotSuicide
   - type: RandomBark
     chatlog: True
+    barkMultiplier: 0.75 #Renault is a good girl and barks less
 
 
 - type: entity
